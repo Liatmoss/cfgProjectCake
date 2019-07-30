@@ -71,12 +71,6 @@ body {
   margin: 30px;
 }
 
-.carousel-control-next, .carousel-control-prev {
-  color: red;
-}
-.carousel-control-next:hover, .carousel-control-prev:hover {
-  color: crimson;
-}
 
 .carousel-item img {
   height: 500px;
