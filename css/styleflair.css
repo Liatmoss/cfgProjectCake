@@ -63,6 +63,14 @@ nav {
   margin: 0;
 }
 
+.current-link {
+  font-weight: 900;
+}
+
+a:hover {
+ font-weight: 900;
+}
+
 body {
   background-color: #9e203e;
   font-size: 20px;
@@ -77,10 +85,12 @@ footer {
   position: relative;
 }
 
+
+
 footer .inline {
   /* putting social media icons in line with text */
   display: inline;
-  padding: 0;
+  padding: 20;
 }
 
 p {
