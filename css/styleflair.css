@@ -82,14 +82,7 @@ footer .inline {
   display: inline;
   padding: 0;
 }
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 50%;
-}
+
 p {
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
@@ -135,6 +128,7 @@ p {
   width: 50px;
   text-align: center;
   text-decoration: none;
+  border-radius: 50%;
 }
 
 /* Add a hover effect if you want */
