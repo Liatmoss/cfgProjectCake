@@ -58,6 +58,15 @@ body {
   font-size: 20px;
 }
 
+p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #e7d0d0;
+  padding-top: 10px;
+  letter-spacing: 0.1em;
+  margin: 0;
+}
 
 .header-wrapper {
   text-align: center;
@@ -69,7 +78,7 @@ body {
 
 
 .carousel-item img {
-  height: 1000px;
+  height: 500px;
 }
 
 .contact-form {
