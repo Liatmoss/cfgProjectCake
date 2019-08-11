@@ -7,7 +7,7 @@
 
 /* As hex codes */
 
-.color-primary-0 { color: #FFC0CB }	/* Main Primary color */
+.color-primary-0 { color: ##9e203e }	/* Main Primary color */
 .color-primary-1 { color: #000000 }
 .color-primary-2 { color: #000000 }
 .color-primary-3 { color: #FF8BA0 }
@@ -54,7 +54,7 @@
 
 
 body {
-  background-color: #FF8BA0;
+  background-color: #9e203e;
   font-size: 20px;
 }
 
