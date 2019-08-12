@@ -68,7 +68,7 @@ a:hover {
 }
 
 body {
-  background-color: #9e203e;
+  background-color: #b76e79;
   font-size: 20px;
 }
 
@@ -93,7 +93,7 @@ p {
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 20px;
-  color: #e7d0d0;
+  color: #dabcc1;
   padding: 70px;
   letter-spacing: 0.1em;
   margin: 20;
@@ -104,7 +104,7 @@ h1 {
   font-family:'Raleway', sans-serif;
   font-weight: 800;
   font-size: 50px;
-  color: #e7d0d0;
+  color: #dabcc1;
   text-align: center;
   padding-top: 10px;
   letter-spacing: 0.1em;
@@ -116,7 +116,7 @@ h3 {
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 15px;
-  color: #9e203e;
+  color: #dabcc1;
   padding-top: 10px;
   letter-spacing: 0.1em;
   margin: 0;
@@ -150,7 +150,7 @@ h2 {
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 18px;
-  color: #e7d0d0;
+  color: #dabcc1;
   letter-spacing: 0.1em;
   margin: 0;
 }
