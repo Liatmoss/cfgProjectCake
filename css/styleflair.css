@@ -133,10 +133,7 @@ h2 {
 }
 
 .contact-form {
-  width: 66%;
-}
-
-.contact-form {
+  align: center;
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 18px;
@@ -177,7 +174,7 @@ h2 {
 
 /* Instagram */
 .fa-instagram {
-  background: #66ff66;
+  background: #C13584;
   color: white;
 }
 
