@@ -103,6 +103,16 @@ p {
   margin: 0;
 }
 
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: #9e203e;
+  padding-top: 10px;
+  letter-spacing: 0.1em;
+  margin: 0;
+}
+
 .header-wrapper {
   text-align: center;
 }
@@ -170,5 +180,5 @@ p {
   text-transform: none;
 }
 .footer-primary {
-  background-color: white;
+  background-color: #f8f9fa;
 }
