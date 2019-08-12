@@ -63,12 +63,12 @@ nav {
   margin: 0;
 }
 
-a:hover {
- font-weight: 900;
+span.sr-only {
+  font-weight: 900;
 }
 
-span {
-  font-weight: 900;
+a:hover {
+ font-weight: 900;
 }
 
 body {
