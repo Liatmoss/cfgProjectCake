@@ -63,7 +63,7 @@ nav {
   margin: 0;
 }
 
-.current-link {
+span.sr-only {
   font-weight: 900;
 }
 
