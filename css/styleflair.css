@@ -67,8 +67,9 @@ p {
   font-size: 20px;
   color: #e7d0d0;
   padding: 70px;
+  max-width: 60%;
   letter-spacing: 0.1em;
-  margin: 20;
+  margin: 0 auto;
 }
 
 h1 {
